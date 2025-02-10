@@ -4,3 +4,5 @@ friends = friends.map(name => "김" + name);
 // forEach & map
 // 공통점 : 배열 값을 조작하여 원하는 결과값을 얻을 수 있다.
 
+// forEach() : 배열 요소마다 한 번씩 주어진 함수를 실행한다.
+ 
